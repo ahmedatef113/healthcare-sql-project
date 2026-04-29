@@ -1,0 +1,301 @@
+provider_key,provider_name,gender,specialty,organization_id,years_experience
+265cd89d-ad7e-4e4e-aea8-c09dc5adf621,Rachel Jenkins,F,Pulmonology,cb7a554c-5ec3-462e-b6da-1022fa4db179,32
+2d243982-3f68-4952-a78b-e9f25d642388,Nancy Wright,F,Oncology,7bd716cf-d9d1-4df9-9ca9-15e8df50da92,10
+61d27eab-958a-4784-b1f7-09af8c17ca0b,Michael Reyes,F,Cardiology,ec733913-15a3-4075-87c0-8491cf10b360,36
+25170114-c061-486a-8552-f18ddb963819,John Gonzalez,F,Dermatology,1230e11d-28aa-4015-a71b-687144ac0b36,28
+37f4f86e-1fb1-445a-843c-e5d6e9af659e,Hannah Hoover,F,Orthopedics,6afafef3-5402-4975-bb4a-5efd172f5cf8,9
+58634693-8eea-4361-a160-9315e789f053,Courtney Keller,F,Internal Medicine,80363040-a300-4660-b3ca-2898a1ddfa03,4
+73a20223-e969-47d8-9290-57485fea430f,Donald Jones,M,Cardiology,5812be93-1478-4dc7-ade6-88a0fb9b0d3e,11
+1ea638ee-cff9-44f2-8bd4-21bf08a37cdc,Heather Hicks,F,Nephrology,81627b84-d84b-48df-a80e-ff47efdbbe57,25
+6ae7f696-c45d-41a2-8432-4d5c0f09914e,Sarah Rivera,F,Nephrology,7bd716cf-d9d1-4df9-9ca9-15e8df50da92,34
+2759216a-714d-4add-b49f-f08000b1db1d,Shawn Green,F,Gastroenterology,76a43277-5c1f-4d98-a388-acc46fd4ff5e,8
+3b04e869-510d-434c-a93a-711a86654802,Victoria Johnson,F,Oncology,0f5e1df4-1e6c-48c9-9dba-bc3511dbe4f4,8
+4fdfd297-7b51-4bca-ad41-5b0b006e8201,Haley Hartman,F,Psychiatry,e529b7e2-1696-49b6-ab4d-bb7131ab5eda,30
+4f0f57fd-17cd-42d4-87df-fced9fd16eed,William Wilson,M,Dermatology,eabdf439-e503-45b6-b077-ee1b7b493601,17
+ba52ee56-29f0-4f7b-82da-6e12331701f3,Cheryl Williams,M,Gastroenterology,ed48293b-0097-4cef-aeb0-c40cdf995db8,20
+6e1bac5e-46f9-4a7a-9448-c8bd83aef917,Joseph Drake,M,Cardiology,6b4a0c43-706a-40ac-8a2d-ceb185b09078,11
+1154266d-6af5-4699-a259-08e9f9e4526f,Teresa Mclaughlin,M,Nephrology,50ed7528-52c1-465a-876b-bcee98728112,32
+d63447ea-b1e0-4783-aeae-efa9a8a8419f,Jeffrey Rush,M,Internal Medicine,6b4a0c43-706a-40ac-8a2d-ceb185b09078,20
+1598e755-0658-4ede-a490-079ef26288c1,Lisa Alvarado,M,General Practice,ec733913-15a3-4075-87c0-8491cf10b360,37
+9319dff8-acb1-4238-8f58-ec1f09baf136,Steven Hunter,M,Internal Medicine,eabdf439-e503-45b6-b077-ee1b7b493601,32
+e22c5477-b459-4195-a4ca-3c0f825890e8,Erika Terry,M,Gastroenterology,4c31b818-ee39-4e39-adcd-434f4d5120ce,9
+adde3228-9dcc-47f3-b5eb-15f611f753c5,Cheryl Ortega,M,Oncology,edc8f899-6856-4288-9694-0d81d92a4c50,36
+393e19de-3008-4555-87c7-722a369eda60,Paul Thompson,M,Neurology,cf0eddb6-1b0d-4ef2-8b85-424c842d7a95,39
+daaf0858-fae3-48b6-a952-8fb2a24d1906,Jennifer Bass,F,Pulmonology,e254b8f1-e25e-49b8-a323-9a598f9a0890,13
+884f306a-12db-46dd-9820-80f3cfe99c36,Daniel Floyd,F,Psychiatry,91a6f34c-ef7b-4a01-8096-00b441aa1b79,24
+297f0004-0cd2-43c9-9cdd-9a31ba25e415,Erica Ramos,F,Gastroenterology,2b47203c-a286-4bf7-8e37-0f7ac286f2cf,8
+5b2bd2fb-a5a8-4f54-907d-243ed9fa1ebe,Kayla Leon,M,Pulmonology,81627b84-d84b-48df-a80e-ff47efdbbe57,22
+2347792e-a4f4-4651-85e3-e52ac7d5989e,Nancy Hopkins,M,Nephrology,dedcd419-25f0-4e7e-aa0d-59ebc970842d,15
+ede34a0c-7624-4ec5-bf0d-5c9244a8e6ff,Matthew Harvey,M,General Practice,81627b84-d84b-48df-a80e-ff47efdbbe57,4
+b0682756-a7f2-42b7-baf5-eabfb802a02a,Trevor Young,M,Internal Medicine,817d01c4-1e53-4be5-b6a6-48b53e51a47f,22
+6df778a5-7a20-4342-83d8-2dcedc4dce34,Robert Hernandez,M,Gastroenterology,ec733913-15a3-4075-87c0-8491cf10b360,18
+1c795f7c-dead-4cef-9415-c7120e0511ac,William Carr,F,Pulmonology,e254b8f1-e25e-49b8-a323-9a598f9a0890,9
+b87549d8-389c-4b05-be30-dfd24067c85e,Joy Mercado,F,Pulmonology,edc8f899-6856-4288-9694-0d81d92a4c50,27
+85a0b249-9cb4-4819-8536-c71c81f6e623,Michelle Cruz,M,Internal Medicine,ed48293b-0097-4cef-aeb0-c40cdf995db8,28
+c7ba54ed-e176-4307-957e-1c8f987f85a2,Charles Watts,F,Psychiatry,6d8d6499-bba0-4834-814e-76dd73b2ce0d,30
+a034c8d7-37de-4f64-a199-6fb94a6ac93e,Shannon Mcclure,M,Oncology,cb7a554c-5ec3-462e-b6da-1022fa4db179,7
+9c7e66a6-cc4f-45d6-9925-369c900d39f4,Colleen Brock,M,Psychiatry,eabdf439-e503-45b6-b077-ee1b7b493601,22
+62395554-0c37-49ce-8957-0209683d098b,Julie Grant,M,Pulmonology,0d80088d-367f-4c96-8d71-e4290b8ef265,13
+a89cfa39-744e-4be2-b369-00224c8b21b2,Barbara Anderson,F,Cardiology,a432099f-38ca-405c-bbc7-c3ca60951137,12
+97fe76c3-17cc-4ab6-978a-bd5fcffa94de,Joseph Hansen,F,Endocrinology,ec733913-15a3-4075-87c0-8491cf10b360,5
+da3b3365-fb78-40fa-9e70-635023e3e076,Pedro Ramos,F,Gastroenterology,ed48293b-0097-4cef-aeb0-c40cdf995db8,4
+eae66df8-553b-4574-9b90-91a582bee433,Stephanie Simmons,M,Internal Medicine,80363040-a300-4660-b3ca-2898a1ddfa03,16
+22a6cc53-6818-4e34-8713-3cb643d6c768,Jill Moore,M,Psychiatry,57343a4b-fa75-4cbd-ba1f-19f5eaf04b69,31
+bb054c81-01df-4592-a947-e75e1cf94699,Joanna Walton,M,Psychiatry,8004c8d0-9027-474e-8054-3aa7ac187108,11
+eefda581-a0e9-4762-b959-2598dc9f1cec,Destiny Strickland,F,General Practice,0999bcea-6156-4e21-8dd2-0fa20a2a7dd5,17
+d6e27696-00e9-4186-aff9-b4cd10ca94a8,Mr. Jeremiah Reeves,F,Neurology,a432099f-38ca-405c-bbc7-c3ca60951137,36
+cfceeeee-c5cf-4f34-82e8-8da266b1b006,George Orozco,F,Cardiology,0d80088d-367f-4c96-8d71-e4290b8ef265,19
+417c543a-5f3a-4718-a7ae-3d75a933d2b0,Chris Reyes,M,General Practice,1230e11d-28aa-4015-a71b-687144ac0b36,35
+eba0701e-5476-441c-a392-a2d1e891e608,Daniel Perry,M,Dermatology,50ed7528-52c1-465a-876b-bcee98728112,4
+60d4761e-29ab-4a7c-bddf-54027b165f8e,John Brown,M,Nephrology,edc8f899-6856-4288-9694-0d81d92a4c50,33
+d22684f5-ddc7-4866-ab08-569037ea23fc,Jean Carrillo,M,General Practice,aaa46b40-920a-45ca-a5b6-e177e9a66418,6
+56196a98-216a-490a-a0fc-4bf88b639875,Alicia Gilmore,M,Internal Medicine,66086222-ef4f-40ea-937c-88b8eba2610c,5
+8020f9d2-158b-4c9d-aed2-07304a28e132,Karen Bender,M,Psychiatry,b8cc9960-90b0-426c-ae0d-9a90485c6c8e,37
+3374d732-3e82-4e25-a373-80f8333a4886,James Snow,M,Nephrology,66086222-ef4f-40ea-937c-88b8eba2610c,3
+d15066d2-4fac-4574-8917-8697402ca486,Kimberly Navarro,M,Psychiatry,91a6f34c-ef7b-4a01-8096-00b441aa1b79,38
+ddc4ecb1-8d96-470a-8466-0ebb046bf37d,Stephanie Freeman,F,Neurology,c122660e-0ee2-48b0-8aa1-fb4eee5e212c,21
+a958a308-68a5-49d1-9cf2-496843e10472,John Price,M,Neurology,2576c6f2-638d-4339-98b5-20a602664901,9
+5f63d1fa-5019-4ce1-a1b9-4acae0562596,Rebecca Ramsey,F,Endocrinology,50ed7528-52c1-465a-876b-bcee98728112,5
+466b53c6-4b42-46a8-b943-6ce1ffdaddc7,Tamara Hooper,M,Endocrinology,de52855b-7f3e-490c-8027-ed8ac596abcc,37
+7ec03f53-d62d-4d1d-88c4-9b8d1102437b,Susan Vargas,M,Internal Medicine,e254b8f1-e25e-49b8-a323-9a598f9a0890,14
+dcb1b224-6572-415b-99bc-116f9f974471,Angela Patterson,F,Cardiology,44d0c4fc-ba85-4a29-86fb-72bf2919a0d5,5
+a06778d6-1430-4be6-a48d-0caabdc480d4,Catherine Green,M,Orthopedics,7d3d1763-eb23-4dbd-8a22-8d954250ff69,11
+5ac28aaa-9f39-49d2-8c61-b4c1b5463949,Jesse Rogers,F,Gastroenterology,fcb2a7ff-2e61-44bf-a2e9-34bbf230c6f3,20
+8c02292a-5ec5-4ad8-a3a7-677b8f7d4f2f,Diana Bean,M,Oncology,dedcd419-25f0-4e7e-aa0d-59ebc970842d,20
+54add3ce-666a-4368-8db1-da5b38bfd293,Ruben Ruiz,M,Cardiology,c8fc1d9f-53be-4b3d-85f3-b89563c0d873,8
+b79ad819-c6cb-48cf-9de0-cb8e77a5149b,Amy Crane,M,Dermatology,dedcd419-25f0-4e7e-aa0d-59ebc970842d,10
+da2ae36e-4195-4a65-b318-6a5149bd70cc,Barry Bernard,F,Neurology,66086222-ef4f-40ea-937c-88b8eba2610c,14
+902e1d93-f1f0-4b13-b184-6e492bab2f4e,Andre Wright,F,Pulmonology,cd03ecf3-041b-48b9-80a1-03cb3842b1f4,17
+f2ab717e-6dc7-4838-808c-1ec5da6e673c,Lisa Allen,F,Neurology,8004c8d0-9027-474e-8054-3aa7ac187108,6
+658a7c65-c241-486f-b2a9-450aaeace7a4,Brian Gould,F,Neurology,817d01c4-1e53-4be5-b6a6-48b53e51a47f,1
+ac7d030d-c6c2-4e12-a4ea-8c0a6d1fa0c1,David Wood,F,Cardiology,5812be93-1478-4dc7-ade6-88a0fb9b0d3e,17
+9537849f-dc6d-4f69-9657-0c04d6fe74a0,Tracey Higgins,M,Dermatology,2b47203c-a286-4bf7-8e37-0f7ac286f2cf,36
+1cc47b25-1f8f-4100-afb3-5929ba12ab7a,Carla Collins,F,Gastroenterology,76a43277-5c1f-4d98-a388-acc46fd4ff5e,8
+360c99ae-79e6-42e8-acb0-f23a9588f165,Tanya Johnston,M,Dermatology,4cf6fe18-e185-4b9b-8c50-be602286e9af,35
+49c89624-f947-4bd6-86d2-4921b591ef25,Jaime David,M,Orthopedics,1230e11d-28aa-4015-a71b-687144ac0b36,36
+f63e91f7-097f-484f-a3df-a43a66a8a95a,Kevin Rivas,M,Psychiatry,57d98181-f3c9-430f-a78e-ae1ad2a6fb3b,3
+68c2035c-9c55-4c76-bd75-7ac38edd065f,Michael Turner,F,Orthopedics,817d01c4-1e53-4be5-b6a6-48b53e51a47f,23
+67c85990-cdd3-41ce-8d88-8ee20682b505,Renee Hogan,M,Oncology,ec733913-15a3-4075-87c0-8491cf10b360,7
+e6ad9ed4-38ff-487b-abe0-e3ae46af65e7,Amanda Patel,F,Gastroenterology,6d8d6499-bba0-4834-814e-76dd73b2ce0d,40
+a5045673-a1ed-4673-9413-621b5ef55c27,Andrea Holland,M,Pulmonology,e529b7e2-1696-49b6-ab4d-bb7131ab5eda,12
+5ccd2708-d455-4239-91ef-a14316f5e85f,Jason Henry,F,General Practice,43d989c1-5fa4-4881-8153-f9a865ee72ce,22
+41ab9d75-b197-4a5f-a389-809b4d6e466e,Jack Snow,F,Oncology,e6b374fb-5061-42df-8e0f-a2ea7a1da344,16
+07fe23fd-7add-4b33-9b96-fb59c07bde79,Christian Thompson,F,Cardiology,83df4a92-8eab-4dd4-ad55-7df0e8122552,7
+66e9eb39-147b-438d-85d3-92dafac79845,Marie Gilbert,F,General Practice,edc8f899-6856-4288-9694-0d81d92a4c50,15
+bfb235d9-bd3a-43c9-b09e-01c04a61ffd5,Patricia Marshall,M,Endocrinology,44d0c4fc-ba85-4a29-86fb-72bf2919a0d5,20
+f8de5e45-5a09-4623-8ef3-7bf16b349c14,Leslie Morris,M,Pulmonology,bc73d588-39a9-464d-b54f-4a4c7f713d12,13
+9a3528d2-7712-4c5b-9fa0-1b7dc3a150ac,Timothy Ramirez,F,Orthopedics,5bfd8c0a-d0cb-49ac-bc7d-ec3e969a48c6,5
+f112e997-46ff-44d7-b3ab-bf1e670be6d8,Paul Hudson,F,Orthopedics,cb7a554c-5ec3-462e-b6da-1022fa4db179,33
+2b3a8100-74f6-47fe-9b4e-974e32ce7982,Gabrielle Snyder,F,Oncology,e254b8f1-e25e-49b8-a323-9a598f9a0890,22
+295f387e-1b23-45a0-b038-5b53a6bbc240,John Kelly,M,Internal Medicine,c8fc1d9f-53be-4b3d-85f3-b89563c0d873,12
+197890eb-bb8a-40da-9bcb-2b30d37e350e,Douglas Carlson,F,General Practice,ed48293b-0097-4cef-aeb0-c40cdf995db8,39
+d23b881a-8c5e-47a0-932f-7d34e1263ed7,Kristi Black,F,Orthopedics,eabdf439-e503-45b6-b077-ee1b7b493601,21
+92290b72-9ba0-4818-b619-7c2f5c9081c9,David Russell,F,Nephrology,aaa46b40-920a-45ca-a5b6-e177e9a66418,8
+7ce75c47-fff8-454a-becb-8543aa53ca50,Cynthia Alvarez,F,Nephrology,0d80088d-367f-4c96-8d71-e4290b8ef265,17
+16d7ac49-e3c6-435a-a5a1-905055824d1e,Joan Smith,M,Dermatology,a432099f-38ca-405c-bbc7-c3ca60951137,1
+10a58546-3a8e-4e3c-8731-6c3f897b0e25,Jared Sanchez,M,Orthopedics,a432099f-38ca-405c-bbc7-c3ca60951137,5
+893de169-f7bf-4100-bec0-31e0abce26b3,Jackie Tran,F,Nephrology,50ed7528-52c1-465a-876b-bcee98728112,8
+1e57172a-3ef5-497e-a07d-669cbaef8335,Zachary Pierce,F,Gastroenterology,0fc76473-157f-455b-9a64-d61906f6674b,27
+e6a6d674-b9c0-41bd-b387-d4d52ae9ef21,Jesse Parker,F,Psychiatry,83df4a92-8eab-4dd4-ad55-7df0e8122552,19
+9cb2cf42-a45b-492c-867b-76f8e6ed9af3,Nathan Stewart,M,Pulmonology,6d8d6499-bba0-4834-814e-76dd73b2ce0d,25
+6f7f8055-b5f3-48a7-a84b-04ea41aec1ca,Tiffany Vaughn,M,Nephrology,e2756749-aa4a-4625-b2a4-1bae4b753be9,20
+178a8284-954d-4314-8183-c050daa63cb6,Parker Hill,F,Gastroenterology,76a43277-5c1f-4d98-a388-acc46fd4ff5e,20
+fc0e5ab1-82b5-4bfc-a539-cd94a64ff0b1,Paige Carlson,F,Pulmonology,a432099f-38ca-405c-bbc7-c3ca60951137,38
+e559c2fd-abf1-4284-9a9f-a546d1e90c7f,Dr. Elizabeth Ward,F,Endocrinology,2b47203c-a286-4bf7-8e37-0f7ac286f2cf,29
+7a87a6cb-6d49-45fe-973c-d6a3d4c4c49a,Michael Martinez,M,Gastroenterology,edc8f899-6856-4288-9694-0d81d92a4c50,11
+b316dd58-71b7-4e55-8e6f-4e861cd246b4,Anthony Carter,M,Neurology,aaa46b40-920a-45ca-a5b6-e177e9a66418,40
+e4725dfe-6db7-48db-acf6-4853683b0642,Margaret Mullins,F,Internal Medicine,80363040-a300-4660-b3ca-2898a1ddfa03,16
+4e6ca598-0774-4efc-8d4b-0c99f492fbe9,Adam Mitchell,F,Pulmonology,0d80088d-367f-4c96-8d71-e4290b8ef265,10
+8a7ea0b0-8134-4a87-8897-63680774cf68,Glen Sheppard,M,General Practice,ec733913-15a3-4075-87c0-8491cf10b360,31
+1283628f-cf3e-4348-b7b2-f309debfd201,Scott Wilson,M,Endocrinology,6d8d6499-bba0-4834-814e-76dd73b2ce0d,37
+a81d1cdb-280a-4a49-aad7-393fbca0c7b3,John Ray,M,Dermatology,83df4a92-8eab-4dd4-ad55-7df0e8122552,25
+aaa5630e-1611-4a38-ac99-42845cb79d5a,Brittany Shepherd,F,Psychiatry,ec733913-15a3-4075-87c0-8491cf10b360,10
+f6a4446c-a797-42c0-888d-c2333d01b441,Angela Wright,M,Internal Medicine,4c31b818-ee39-4e39-adcd-434f4d5120ce,28
+e1f3527f-3c49-45d8-a991-2bf931cec0d4,Jennifer Carlson,M,Cardiology,83df4a92-8eab-4dd4-ad55-7df0e8122552,34
+ef1e2012-5b2c-438f-b89e-c4105a97dc46,Patricia James,F,General Practice,dedcd419-25f0-4e7e-aa0d-59ebc970842d,16
+c5f4556e-9d92-4d6f-99f7-154f1fd198fd,Elizabeth Chapman,M,Endocrinology,57d98181-f3c9-430f-a78e-ae1ad2a6fb3b,30
+a937a578-83cd-42c5-950a-fa3dfc68ad08,Keith Brown,F,Endocrinology,de52855b-7f3e-490c-8027-ed8ac596abcc,33
+84dd0216-c712-4f18-a1e1-4c9d30d4dd90,Annette Farmer,F,Gastroenterology,2b47203c-a286-4bf7-8e37-0f7ac286f2cf,11
+410461e8-d5af-4eb4-b507-cf0c5506bebc,Deborah Miller,F,Endocrinology,c8fc1d9f-53be-4b3d-85f3-b89563c0d873,16
+4c6b5c92-e219-4efb-9a3a-be5f40358e1b,Juan Moore,F,Gastroenterology,57343a4b-fa75-4cbd-ba1f-19f5eaf04b69,16
+9793bd0a-b3a7-41cd-a853-bbd3eedb2e65,Michael Harrison,F,Endocrinology,81627b84-d84b-48df-a80e-ff47efdbbe57,19
+255cf927-3541-4e7f-a9cc-6f120cdb2f8f,Dwayne Campbell,M,Neurology,0f5e1df4-1e6c-48c9-9dba-bc3511dbe4f4,21
+cd77c8f9-b2e5-48e0-ae47-01290a40017f,Andrea Hall,M,Cardiology,4cf6fe18-e185-4b9b-8c50-be602286e9af,15
+b878a879-8095-4a75-9f11-367ddc77e734,Rick Lawrence,F,Dermatology,4cf6fe18-e185-4b9b-8c50-be602286e9af,14
+a02dede7-7ce0-48fa-8625-811e1dc5c73d,Christina Wilson,M,Psychiatry,6d8d6499-bba0-4834-814e-76dd73b2ce0d,22
+ef146caa-3668-4ece-a8f3-68108fa2e484,Chase Baker,F,Psychiatry,8004c8d0-9027-474e-8054-3aa7ac187108,14
+2084bf6d-699d-4f0e-b81a-69f2cf45cc09,Anthony Sparks,F,Psychiatry,4c31b818-ee39-4e39-adcd-434f4d5120ce,38
+a280402a-8216-41e7-8ef5-077edd003276,Samantha Morse,M,Nephrology,0999bcea-6156-4e21-8dd2-0fa20a2a7dd5,31
+96671725-da89-48be-af0c-69fd9a25c3d7,John Torres,M,Orthopedics,0fc76473-157f-455b-9a64-d61906f6674b,25
+920f16cd-bc97-450c-93fd-7bde4f822d06,Dillon Fernandez,F,Gastroenterology,e6b374fb-5061-42df-8e0f-a2ea7a1da344,35
+17c8f0e8-2c65-4a6a-b9f7-61d365be6570,Kyle Preston,M,Endocrinology,6afafef3-5402-4975-bb4a-5efd172f5cf8,18
+ccfa72da-fcc5-4eea-9c67-a0ba00dcd2bf,Lindsey Johnson,F,Endocrinology,bc73d588-39a9-464d-b54f-4a4c7f713d12,25
+8e4fd370-62f3-4e41-9fce-86c3802c0138,Michael Valencia,F,Oncology,cd03ecf3-041b-48b9-80a1-03cb3842b1f4,26
+401ae3cf-5874-49d0-bfba-b881a16e5ab1,Alicia Hubbard,M,Endocrinology,57d98181-f3c9-430f-a78e-ae1ad2a6fb3b,40
+013dbc36-72cd-4665-bd9e-1ad3d841c688,Laura Hines,M,Psychiatry,1230e11d-28aa-4015-a71b-687144ac0b36,37
+424ad69a-b4d1-467f-8dd9-1d2581685fde,Joseph Ramos,M,Internal Medicine,cb7a554c-5ec3-462e-b6da-1022fa4db179,28
+40dd4edf-66b0-4ea3-b8f1-e67374f846a6,Zachary Graham,M,Endocrinology,43d989c1-5fa4-4881-8153-f9a865ee72ce,4
+88bb8129-b614-466e-810b-12faa39028f9,Tracy Harrison,F,Psychiatry,50ed7528-52c1-465a-876b-bcee98728112,14
+3045c6b7-2ca7-4d02-8a38-67c368914e5b,Frank Garcia,F,Orthopedics,0f5e1df4-1e6c-48c9-9dba-bc3511dbe4f4,25
+97a6fd49-0fb7-42b1-a77f-a91c4565cfc1,Jason Simpson,F,Psychiatry,c8fc1d9f-53be-4b3d-85f3-b89563c0d873,6
+35aabb0c-c625-4118-8196-36af12979ca5,Jennifer Hodges,F,General Practice,e6b374fb-5061-42df-8e0f-a2ea7a1da344,35
+50dfc961-ee3b-4957-a765-c5dc233faffc,Brandon King,M,Orthopedics,6afafef3-5402-4975-bb4a-5efd172f5cf8,5
+550ed8f2-087c-4f2d-b784-8f9a4a323565,Raymond Hancock,M,General Practice,ec733913-15a3-4075-87c0-8491cf10b360,13
+89a4d356-23fe-4c6c-8faa-62dc344c1aec,April Booth,M,Nephrology,4cf6fe18-e185-4b9b-8c50-be602286e9af,16
+938ba012-ed9f-4b4a-a300-981818f5fff4,Anthony Stone,M,Endocrinology,91a6f34c-ef7b-4a01-8096-00b441aa1b79,8
+4db1e205-bf65-4070-8d1a-47b13336415d,Kathleen Ramos,M,Endocrinology,83df4a92-8eab-4dd4-ad55-7df0e8122552,17
+739366e4-cb74-40dd-b815-0745b791a649,Derek Anderson,F,Cardiology,66086222-ef4f-40ea-937c-88b8eba2610c,39
+aaba585c-3bf3-4ad5-9f0b-631e1da23140,Stanley Washington,M,Cardiology,0fc76473-157f-455b-9a64-d61906f6674b,7
+9b6ed6c7-8601-489e-abd8-a8acfa5551ab,Mark Lloyd,M,Neurology,e2756749-aa4a-4625-b2a4-1bae4b753be9,25
+31c5758c-0080-4e92-af44-7380742ced30,Emily Smith,F,Dermatology,0d80088d-367f-4c96-8d71-e4290b8ef265,5
+79314a58-a3af-4129-a5d7-d7012c88257d,Danny Skinner,M,Internal Medicine,83df4a92-8eab-4dd4-ad55-7df0e8122552,20
+88c549ce-c8fd-4424-b625-6e460c651ab0,Travis Holland,M,Nephrology,817d01c4-1e53-4be5-b6a6-48b53e51a47f,23
+17b487c8-9b7a-4bca-ad6d-c58be5136ac5,Timothy Carter,F,Oncology,6b4a0c43-706a-40ac-8a2d-ceb185b09078,5
+adcf886f-c8dd-48d2-bcba-72ed6279a347,Jennifer Olson,F,General Practice,6d8d6499-bba0-4834-814e-76dd73b2ce0d,32
+2acab5aa-a70e-4e7b-a74f-b13ebde10e17,Jesus Thomas,M,Psychiatry,6b4a0c43-706a-40ac-8a2d-ceb185b09078,30
+e0772818-1a13-49cc-8047-ac624dc750fc,Kyle Francis,M,Psychiatry,43d989c1-5fa4-4881-8153-f9a865ee72ce,34
+987496ac-5aa1-478a-be7c-087111c986e6,Benjamin Barton,F,Nephrology,e254b8f1-e25e-49b8-a323-9a598f9a0890,31
+6f96881f-a7ab-42cd-b4f0-f35f5702f5ad,Gina French,F,Psychiatry,eabdf439-e503-45b6-b077-ee1b7b493601,38
+3265f1dc-5a19-489f-b714-6945378f9789,Aaron Barber,F,Orthopedics,ec733913-15a3-4075-87c0-8491cf10b360,6
+30afb630-e2fa-490c-a95d-ee8c3a661a56,Lauren Keller,F,Endocrinology,ec733913-15a3-4075-87c0-8491cf10b360,30
+3fe27da7-6f71-4aff-a527-41c448316162,Jill Washington,F,Orthopedics,bc73d588-39a9-464d-b54f-4a4c7f713d12,32
+5b4466cf-4548-4721-8502-daf4d741ade8,Phillip Bennett,F,Cardiology,57343a4b-fa75-4cbd-ba1f-19f5eaf04b69,14
+cccfb9c7-b928-4c5a-81d4-3343c2c7cee9,Sheila Pollard,F,Neurology,0f5e1df4-1e6c-48c9-9dba-bc3511dbe4f4,18
+f9c6f77c-8836-47f6-bd51-873afd99ec8d,James Chase,F,Gastroenterology,76a43277-5c1f-4d98-a388-acc46fd4ff5e,34
+d0162734-5a1a-4d68-bc9b-1e64c6cd9fd3,Evan Kennedy,M,Internal Medicine,ec733913-15a3-4075-87c0-8491cf10b360,27
+325049e6-5dd4-4f96-9619-2967aed65594,Jane Mcneil,F,Gastroenterology,80363040-a300-4660-b3ca-2898a1ddfa03,16
+92c620f8-dc02-444d-9926-ab297f3669aa,Marissa Hernandez,F,Oncology,fcb2a7ff-2e61-44bf-a2e9-34bbf230c6f3,32
+e7af5cd9-7213-4361-9261-41308d551267,Beth Sanford,F,General Practice,bb940fce-b89d-4770-9435-56e982a9dbe2,19
+b33effb4-989a-417f-b500-b337a1e9e19e,Brian Kirk,M,Psychiatry,83df4a92-8eab-4dd4-ad55-7df0e8122552,16
+a6ccf15b-dc35-45a0-9f05-0e8cec1f0f9b,Thomas Smith,F,Oncology,1230e11d-28aa-4015-a71b-687144ac0b36,24
+cdb6aea6-129a-41db-aa63-a5e89c6ea75c,Seth Booker,F,Gastroenterology,cf0eddb6-1b0d-4ef2-8b85-424c842d7a95,23
+0a68a6ef-191c-43d5-91da-286ea87c16d1,Richard Baker,F,Dermatology,dedcd419-25f0-4e7e-aa0d-59ebc970842d,22
+b439c245-0d8e-4fa6-accf-926c4f6ed779,Jennifer Miller,F,Dermatology,7bd716cf-d9d1-4df9-9ca9-15e8df50da92,18
+e6ae4c10-eac5-4629-b7ed-3c66e5d0cff3,Michael Ferguson,F,Neurology,6afafef3-5402-4975-bb4a-5efd172f5cf8,8
+26509349-610d-4d57-ad39-7462cee50f2d,Lori Clay,M,Orthopedics,b8cc9960-90b0-426c-ae0d-9a90485c6c8e,35
+182a259c-5cad-42d3-8192-12b3e30a8247,Joshua Williamson II,M,Pulmonology,c122660e-0ee2-48b0-8aa1-fb4eee5e212c,31
+2d297122-97cb-4104-b5da-1c1f41bcde60,Donna Perez,F,Dermatology,1230e11d-28aa-4015-a71b-687144ac0b36,34
+dc0e0b44-577b-422d-94ab-77ea3e199c02,William Hodges,F,Internal Medicine,0d80088d-367f-4c96-8d71-e4290b8ef265,19
+bd89de09-5a37-4b5a-8409-8debe9105372,Ashlee Jackson,M,Orthopedics,43d989c1-5fa4-4881-8153-f9a865ee72ce,20
+90a845cc-c3fc-4116-a719-cbe630aff0d4,Allen Nguyen,M,Dermatology,e254b8f1-e25e-49b8-a323-9a598f9a0890,9
+11d07ce7-d814-4846-a1e2-5e253cabe373,Ian Jordan,F,General Practice,8004c8d0-9027-474e-8054-3aa7ac187108,36
+b75a606b-c479-4f96-902a-ba5acfda4ff1,Jason Maldonado,F,Dermatology,57d98181-f3c9-430f-a78e-ae1ad2a6fb3b,32
+e8fd1f4e-5397-43c3-a1c2-0e506e0fe382,Christopher Lynch,M,General Practice,e2756749-aa4a-4625-b2a4-1bae4b753be9,19
+ceadd069-5ad2-4d6e-b000-46c5ed797c1a,Michael Jimenez,F,Endocrinology,2b47203c-a286-4bf7-8e37-0f7ac286f2cf,22
+0f392d03-581a-464a-899f-741fd2e38b89,Crystal Little,M,General Practice,c8fc1d9f-53be-4b3d-85f3-b89563c0d873,31
+90ad9f5f-08f2-4fb9-9a2a-2018e4aee234,Michael Nolan,M,Internal Medicine,2576c6f2-638d-4339-98b5-20a602664901,32
+91f4cb08-203a-418f-beae-d4f55513aa2a,Dwayne Payne,M,Nephrology,5812be93-1478-4dc7-ade6-88a0fb9b0d3e,4
+0147153e-96be-4e97-96c3-e63007fd6f15,Tony Huerta,M,Cardiology,e2756749-aa4a-4625-b2a4-1bae4b753be9,20
+4bd30419-3b77-489c-9579-5109059c6c35,Victor Vaughn,M,Pulmonology,b8cc9960-90b0-426c-ae0d-9a90485c6c8e,36
+41104f05-76d6-4ef7-b384-8bccdc26e819,Eric Kidd,F,Nephrology,66086222-ef4f-40ea-937c-88b8eba2610c,40
+d6bbeb96-bc89-473a-b75d-1d844a84d307,Ashley James,M,Gastroenterology,0999bcea-6156-4e21-8dd2-0fa20a2a7dd5,29
+2038f802-0b34-45ed-9aaf-b8c522510bac,Edward Lyons,F,Neurology,1230e11d-28aa-4015-a71b-687144ac0b36,28
+b45bae74-beb2-4888-b997-b4fc913b5eaf,Ronald Foster,F,Nephrology,de52855b-7f3e-490c-8027-ed8ac596abcc,4
+28526103-973e-40e5-a39a-b3c22b25f5d2,Sean Osborne,M,Pulmonology,5812be93-1478-4dc7-ade6-88a0fb9b0d3e,14
+fe725e01-6d01-4b80-8716-6ff4bb8e8252,Susan Mcgee,F,Oncology,bb940fce-b89d-4770-9435-56e982a9dbe2,11
+ab15a2cb-c17a-442c-81ef-756d2429ad65,Stephanie Parsons,M,Cardiology,dedcd419-25f0-4e7e-aa0d-59ebc970842d,5
+629173aa-4434-4424-9c38-34107bcf36fc,Robert Robinson,M,General Practice,6d8d6499-bba0-4834-814e-76dd73b2ce0d,29
+3d74bc0c-07c8-46fa-a1fb-aeef2d74c1d7,David Campos,F,Neurology,817d01c4-1e53-4be5-b6a6-48b53e51a47f,15
+084024d3-60ee-4960-a10b-cd1c0d8495bd,Melanie Taylor,F,Dermatology,7d3d1763-eb23-4dbd-8a22-8d954250ff69,30
+d4544226-f609-4d62-a122-b6adfb7f4432,Mark Williams,M,Oncology,6afafef3-5402-4975-bb4a-5efd172f5cf8,17
+9476d800-0030-4244-a8c2-f68a6c01f582,Amanda Diaz,M,Psychiatry,b8cc9960-90b0-426c-ae0d-9a90485c6c8e,35
+10cdbdbe-e9d9-4254-8b1d-960233522c8d,Theodore Murphy,M,Oncology,4cf6fe18-e185-4b9b-8c50-be602286e9af,18
+d788c59a-ffc6-4efe-b73d-714702df73eb,Curtis Buchanan,M,Internal Medicine,8004c8d0-9027-474e-8054-3aa7ac187108,11
+d09f11c2-1657-441f-ba9d-d3d0cf595bec,Holly Shaw,F,Nephrology,e6b374fb-5061-42df-8e0f-a2ea7a1da344,37
+0670820e-8215-4598-994c-7f5f86c246f6,Christopher Sloan,F,Endocrinology,b8cc9960-90b0-426c-ae0d-9a90485c6c8e,30
+4e2f41b2-bb33-48b4-bb5f-67a6a5cc0ba8,Tracy Phillips,F,Dermatology,2576c6f2-638d-4339-98b5-20a602664901,18
+97595e06-453d-43c9-839a-f8cf04f2ded8,Regina Mcdonald,F,Endocrinology,bb940fce-b89d-4770-9435-56e982a9dbe2,39
+0f3a6da6-3780-4e07-b6fe-4661c3ff63ce,Paul Perez,M,Psychiatry,e6b374fb-5061-42df-8e0f-a2ea7a1da344,21
+ccc5ac92-0f0d-49bd-8baa-6919b398ba91,Megan Sanders,F,General Practice,bb940fce-b89d-4770-9435-56e982a9dbe2,15
+ff827b39-fd1d-43ac-99cd-258451e06b53,Kristin Davis,M,Oncology,5bfd8c0a-d0cb-49ac-bc7d-ec3e969a48c6,37
+3f87eaec-d9c2-4f44-8081-81763e622e2c,Dennis Martinez,M,Cardiology,edc8f899-6856-4288-9694-0d81d92a4c50,34
+eb746a6c-736f-450e-b570-be120677348c,Paul Baker,F,Neurology,43d989c1-5fa4-4881-8153-f9a865ee72ce,38
+7bee66c0-6c4d-4b8e-b414-508e7726adf5,Mark Watson,F,Oncology,57343a4b-fa75-4cbd-ba1f-19f5eaf04b69,6
+5f61e84b-9d10-43e0-bb51-891be217a7b3,Kaitlyn Harvey,F,Orthopedics,6d8d6499-bba0-4834-814e-76dd73b2ce0d,22
+707d79ba-41de-4878-8d32-ad82d9eb5498,Erin Bishop,F,Oncology,ed48293b-0097-4cef-aeb0-c40cdf995db8,11
+6554e2cb-89a0-4253-8cff-da168f1b6a92,Madison Marshall,F,Psychiatry,83df4a92-8eab-4dd4-ad55-7df0e8122552,32
+1634baa5-b5fe-4f48-9c13-9f0cac56a75b,Marie Wilson,F,Oncology,2576c6f2-638d-4339-98b5-20a602664901,36
+f43a0d3c-4cb0-4687-b6fa-78e9ae7bf374,Andrew Ferrell,M,Endocrinology,bb940fce-b89d-4770-9435-56e982a9dbe2,21
+2f1fcd74-59c7-4444-8445-494f277212dc,David Medina,F,Orthopedics,b8cc9960-90b0-426c-ae0d-9a90485c6c8e,26
+a00cbef7-ac11-45e5-b383-53aaaae2edb2,Jacob Avery,M,Oncology,e254b8f1-e25e-49b8-a323-9a598f9a0890,30
+c1b7dbfb-fa56-41c8-ab3f-c3e908a44a8b,Kimberly Matthews,F,General Practice,0d80088d-367f-4c96-8d71-e4290b8ef265,34
+1a1f82bb-15db-4f21-a0ce-e4764aab0fdb,Stacey Pena,F,Nephrology,80363040-a300-4660-b3ca-2898a1ddfa03,32
+2951cbe6-9624-44e8-a529-f5903ce0b371,Lisa Crosby,F,General Practice,c122660e-0ee2-48b0-8aa1-fb4eee5e212c,18
+f4b6002e-3057-4ccf-887c-1a3fda7652e6,Michael Robinson,M,Neurology,2b47203c-a286-4bf7-8e37-0f7ac286f2cf,32
+5332b0e4-5844-42ce-992d-de48b7dfcdc8,David Cox,M,General Practice,5812be93-1478-4dc7-ade6-88a0fb9b0d3e,39
+a5f8c42e-4805-4b94-b9dc-a97a9f371846,Mrs. Stephanie Newman,M,Dermatology,e529b7e2-1696-49b6-ab4d-bb7131ab5eda,20
+cd596426-332c-442d-8fa8-a0a6aa9b35d5,Donald Donaldson,M,Gastroenterology,6d8d6499-bba0-4834-814e-76dd73b2ce0d,6
+56533748-6137-49b9-b324-3044ae1c898f,Samantha Davis,M,Internal Medicine,7bd716cf-d9d1-4df9-9ca9-15e8df50da92,8
+4915a77a-6528-42f4-8ce5-9e0bac2b6793,Mark Maddox,M,Endocrinology,fcb2a7ff-2e61-44bf-a2e9-34bbf230c6f3,19
+8ce5f2ce-21a4-4baf-ae49-69ec44fa62cc,Gavin Zhang,F,Psychiatry,edc8f899-6856-4288-9694-0d81d92a4c50,31
+066c4c01-9bec-4f68-9ac3-0f79e91b4f5e,Christine Gallegos,M,Endocrinology,dedcd419-25f0-4e7e-aa0d-59ebc970842d,10
+d68da3c4-fbd8-42fd-a1d0-729ce3f24737,Laurie Li,F,Pulmonology,66086222-ef4f-40ea-937c-88b8eba2610c,33
+ed9cbc6e-b052-47e9-9835-9987444df10d,Raymond Kramer,M,Internal Medicine,5bfd8c0a-d0cb-49ac-bc7d-ec3e969a48c6,27
+4a9c2f5a-b94f-4622-b9c8-4f82c8d6bfe3,Destiny Riggs,F,Gastroenterology,5bfd8c0a-d0cb-49ac-bc7d-ec3e969a48c6,1
+237c1b71-cf06-4621-b972-422a73d98238,Ms. Rebecca Rodriguez,F,Dermatology,0fc76473-157f-455b-9a64-d61906f6674b,38
+869e7f5c-9797-4085-a66a-c8df894ad128,Bonnie Howard,F,Cardiology,2b47203c-a286-4bf7-8e37-0f7ac286f2cf,35
+bf4f6268-7912-403a-8d17-4307e8e0ba2d,Leah Smith,F,Orthopedics,0f5e1df4-1e6c-48c9-9dba-bc3511dbe4f4,36
+d76e5941-3cb5-4d7e-91f3-d404a423d73b,Cameron Fisher,F,Endocrinology,50ed7528-52c1-465a-876b-bcee98728112,13
+8f443e29-97a3-480f-a948-7623d8d36022,Arthur West,M,Nephrology,0999bcea-6156-4e21-8dd2-0fa20a2a7dd5,15
+6afd9c4d-e838-4742-bf51-13411b8aace0,Kevin Hayes,F,General Practice,50ed7528-52c1-465a-876b-bcee98728112,31
+f457d6f9-1e3c-4ce8-9170-e20d77ca7bf6,Luis Acosta,F,Psychiatry,91a6f34c-ef7b-4a01-8096-00b441aa1b79,10
+97294b8c-488f-4639-b4ea-e526414b2d77,Mary Turner,F,General Practice,57d98181-f3c9-430f-a78e-ae1ad2a6fb3b,33
+7817a197-4910-4d00-bd21-641dc2402dad,Amanda Lutz,F,Internal Medicine,2b47203c-a286-4bf7-8e37-0f7ac286f2cf,7
+b9b494ee-0571-4aa3-ac47-bc6951a42cad,Jessica Rodriguez,F,General Practice,eabdf439-e503-45b6-b077-ee1b7b493601,10
+d4e3ec71-f320-414c-8290-3844d6c3fb19,Jill Lam,F,Oncology,4cf6fe18-e185-4b9b-8c50-be602286e9af,5
+6feb2466-ab33-4cdb-accc-51c17fb2fb98,Charles Martinez,F,Neurology,0f5e1df4-1e6c-48c9-9dba-bc3511dbe4f4,40
+073bb612-7998-4fb0-ba61-1d6befaad863,Lauren Joseph,F,Oncology,bb940fce-b89d-4770-9435-56e982a9dbe2,22
+53df39a3-3bfa-4fc1-ad38-c58ee4b0ad1b,Kyle Phillips,F,Orthopedics,5812be93-1478-4dc7-ade6-88a0fb9b0d3e,32
+9c4f07a3-c8ca-4495-a33d-f717ec8c0288,Jessica Mcguire,M,Nephrology,81627b84-d84b-48df-a80e-ff47efdbbe57,16
+ec3d0e12-daf8-4c52-986b-5a6873c6f79d,Matthew Rich,F,Pulmonology,e6b374fb-5061-42df-8e0f-a2ea7a1da344,6
+1f771e0f-1e06-43ea-a3d2-e742c83915f6,Sharon Jordan,F,Internal Medicine,80363040-a300-4660-b3ca-2898a1ddfa03,7
+2dbc60a9-b93e-4bbe-989a-f1cd71881696,Jennifer Wilcox,F,Cardiology,83df4a92-8eab-4dd4-ad55-7df0e8122552,20
+9516f1bb-984d-4233-a791-4014dd8abe1b,Nicholas Edwards,M,General Practice,50ed7528-52c1-465a-876b-bcee98728112,4
+266406c5-f936-4524-8cd2-fa3f55cc4feb,David Mckay,F,Orthopedics,6b4a0c43-706a-40ac-8a2d-ceb185b09078,28
+40244322-08a5-4bdd-a709-8c30e45c04af,Kara Davis,M,Pulmonology,cf0eddb6-1b0d-4ef2-8b85-424c842d7a95,27
+5b1bb786-d12d-4faf-b0ab-22ceb80e0d9f,Jeffrey Garner,M,Cardiology,43d989c1-5fa4-4881-8153-f9a865ee72ce,6
+19f32cb5-0704-41e5-80b6-406e5e84c15b,Carlos Brown,F,Nephrology,cd03ecf3-041b-48b9-80a1-03cb3842b1f4,16
+cff519be-ad4c-4d0d-8b92-ada8046aeb1d,Kristina Santiago,F,Nephrology,4cf6fe18-e185-4b9b-8c50-be602286e9af,15
+0b3a5501-5f7d-4bb3-9620-b8952dc73914,Shane Pugh,F,Oncology,c8fc1d9f-53be-4b3d-85f3-b89563c0d873,30
+01cf3f07-21fd-4ad9-a540-964cd682a0e6,Thomas Williams,F,Oncology,76a43277-5c1f-4d98-a388-acc46fd4ff5e,30
+48bfa835-0596-43f4-b2ea-b5d1b327b9a4,Erik Garcia,F,Oncology,e254b8f1-e25e-49b8-a323-9a598f9a0890,11
+69d2b1df-1aaa-4c56-8aeb-234d332c84d9,Brittney Olson,M,Endocrinology,44d0c4fc-ba85-4a29-86fb-72bf2919a0d5,38
+1fbe30d5-74fc-400f-97f3-226560c5f61e,Hayley Hawkins,F,Oncology,a432099f-38ca-405c-bbc7-c3ca60951137,17
+d6b0b202-e4b3-4afb-8dcd-6fdf6249f74a,Donald Perez,F,Neurology,0d80088d-367f-4c96-8d71-e4290b8ef265,25
+d1a48678-4bf4-4ade-82cf-ef30d5543500,Justin Saunders,F,Internal Medicine,ec733913-15a3-4075-87c0-8491cf10b360,25
+3d58bbd1-8269-4a21-abee-7fc59d178a03,Megan Hawkins,F,Nephrology,7d3d1763-eb23-4dbd-8a22-8d954250ff69,19
+28aa5ae5-774e-49aa-bc3e-230da5d6bab3,Mary Steele,M,Oncology,2576c6f2-638d-4339-98b5-20a602664901,18
+a05c6671-fffc-4283-8c44-3b9b19744288,Donald Farmer,M,Nephrology,cd03ecf3-041b-48b9-80a1-03cb3842b1f4,4
+6c171460-7ebf-4579-bd0a-d112e3283882,Heather White,F,Neurology,4c31b818-ee39-4e39-adcd-434f4d5120ce,15
+5673124e-3a5e-46d4-8afa-1a5512af4580,Matthew Jones,F,Pulmonology,5812be93-1478-4dc7-ade6-88a0fb9b0d3e,13
+cea29943-f125-4102-9b7e-33547324954a,Valerie Davis,F,Oncology,80363040-a300-4660-b3ca-2898a1ddfa03,9
+f3f971e6-44d4-46d5-87eb-4ea18865cade,Jamie Chavez,M,Oncology,cb7a554c-5ec3-462e-b6da-1022fa4db179,3
+cef83d43-7f6e-4c14-bd57-e97c471d2df3,Eric Nguyen,F,Endocrinology,817d01c4-1e53-4be5-b6a6-48b53e51a47f,38
+97acc524-07fe-45d0-bd3c-48f3d3d526d8,Linda Ware,F,Dermatology,57d98181-f3c9-430f-a78e-ae1ad2a6fb3b,6
+d3a72af0-b083-4ecb-9496-652d974aa2b8,Paul Williams,F,Orthopedics,e6b374fb-5061-42df-8e0f-a2ea7a1da344,27
+42698600-ae82-42ec-9e10-cf5771540716,Jeremy Coleman,M,Pulmonology,57d98181-f3c9-430f-a78e-ae1ad2a6fb3b,35
+1316143a-4b9d-465f-8fe8-92ee2974f7c7,Jennifer Lewis,F,Gastroenterology,aaa46b40-920a-45ca-a5b6-e177e9a66418,18
+6721e6eb-5616-4162-8fe1-210d35d3047b,Haley Rodriguez,M,Neurology,edc8f899-6856-4288-9694-0d81d92a4c50,19
+9d4b4b2a-60a7-4b76-87ad-b2c2d270e223,Leslie Rose,F,Internal Medicine,7bd716cf-d9d1-4df9-9ca9-15e8df50da92,5
+1c2f2ec9-6e09-4782-b83f-f08fecd73a29,Daniel Joyce,M,Pulmonology,cd03ecf3-041b-48b9-80a1-03cb3842b1f4,26
+d7f15a77-123e-4d77-adcd-0c4044f2fa89,Dan Dougherty,F,Internal Medicine,2576c6f2-638d-4339-98b5-20a602664901,1
+8e76f17b-4d9d-407f-9117-98c08a1cdcf1,Pamela Roberts,F,Gastroenterology,b8cc9960-90b0-426c-ae0d-9a90485c6c8e,30
+1b62342d-052b-4d2c-9802-71be252da2cb,Jonathan Jordan,F,Oncology,e6b374fb-5061-42df-8e0f-a2ea7a1da344,17
+7ebeb676-66b0-44eb-8dbb-74530248f175,Joseph Hall,F,Oncology,6b4a0c43-706a-40ac-8a2d-ceb185b09078,7
+3299d931-88d2-4dc3-aa5c-e1c3d5a04f44,Mary Gomez,M,Endocrinology,bc73d588-39a9-464d-b54f-4a4c7f713d12,40
+564c13e7-d6cc-4964-be25-3835f8123d54,Patrick Graham,F,Nephrology,6afafef3-5402-4975-bb4a-5efd172f5cf8,5
+6c1696ca-d557-4e68-9dad-35a9648e5054,Blake Edwards,F,Dermatology,0fc76473-157f-455b-9a64-d61906f6674b,27
+1ebc2971-9ef4-48ef-8680-470ef8edd0ee,Jared Bowman,M,Cardiology,817d01c4-1e53-4be5-b6a6-48b53e51a47f,3
+367d1920-d4f7-4181-8ed3-9ab1382fcf47,Jared Burch,F,Endocrinology,b8cc9960-90b0-426c-ae0d-9a90485c6c8e,7
+d7b4736b-cd09-4ae3-b328-30e160071b7f,Travis Stevens,M,Gastroenterology,57d98181-f3c9-430f-a78e-ae1ad2a6fb3b,25
+f6bda46c-c0f4-4879-ad75-42d64c2a2231,Heidi Kim,F,Orthopedics,91a6f34c-ef7b-4a01-8096-00b441aa1b79,35
+9bfc3538-9c6c-4a73-a541-32b66046833a,Jeffrey Morales,F,Nephrology,e6b374fb-5061-42df-8e0f-a2ea7a1da344,10
+2d9d6687-c7f1-42b7-8b45-309f495de3f3,Seth Reese,F,Oncology,ed48293b-0097-4cef-aeb0-c40cdf995db8,32
+507fbf87-b658-49b2-99b9-18eb6b8371ce,Richard Jones,F,Neurology,817d01c4-1e53-4be5-b6a6-48b53e51a47f,24
+a094e9d1-9d81-4b29-8533-8ec94938e9bd,Kerry Lee,M,Endocrinology,2b47203c-a286-4bf7-8e37-0f7ac286f2cf,16
+dc4be948-0c53-4a48-a5d6-1cee80dbc6ff,Heather Mullen,F,Internal Medicine,cd03ecf3-041b-48b9-80a1-03cb3842b1f4,24
+d55d7fd9-9af1-4b47-b314-4641d20c4572,Brittany Garcia,F,General Practice,2576c6f2-638d-4339-98b5-20a602664901,18
+638ff649-eb31-43c4-866e-c3d8f9f582a8,Christopher Hernandez,M,Internal Medicine,7bd716cf-d9d1-4df9-9ca9-15e8df50da92,6
+3881a10b-014c-4bff-a5fb-74d387bcd79b,Angela Bean,M,Oncology,5812be93-1478-4dc7-ade6-88a0fb9b0d3e,39
+9f17e6f5-b00a-402c-bad9-a38d728ea842,Julie Elliott,M,General Practice,0f5e1df4-1e6c-48c9-9dba-bc3511dbe4f4,16
+85ec635a-e9ac-4214-94a3-4ac10d6c5cbd,Melanie Macias,M,Nephrology,c122660e-0ee2-48b0-8aa1-fb4eee5e212c,5

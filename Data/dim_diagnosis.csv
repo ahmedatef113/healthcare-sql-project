@@ -1,0 +1,21 @@
+diagnosis_key,icd10_code,condition_name,category,is_chronic
+DX0000,N18,Chronic kidney disease,Genitourinary,True
+DX0001,E11,Type 2 diabetes mellitus,Endocrine,True
+DX0002,M79,Fibromyalgia,Musculoskeletal,True
+DX0003,G43,Migraine,Neurological,False
+DX0004,L30,Dermatitis,Skin,False
+DX0005,K21,GERD,Digestive,True
+DX0006,F32,Major depressive disorder,Mental Health,True
+DX0007,E78,Hyperlipidemia,Endocrine,True
+DX0008,E03,Hypothyroidism,Endocrine,True
+DX0009,J06,Upper respiratory infection,Respiratory,False
+DX0010,Z00,General examination,Preventive,False
+DX0011,N39,Urinary tract infection,Genitourinary,False
+DX0012,C34,Lung cancer,Neoplasm,True
+DX0013,J18,Pneumonia,Respiratory,False
+DX0014,J45,Asthma,Respiratory,True
+DX0015,I50,Heart failure,Circulatory,True
+DX0016,F41,Anxiety disorder,Mental Health,True
+DX0017,M54,Back pain,Musculoskeletal,False
+DX0018,I10,Essential hypertension,Circulatory,True
+DX0019,I25,Coronary artery disease,Circulatory,True
