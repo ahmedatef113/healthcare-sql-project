@@ -24,10 +24,9 @@ This project focuses on analyzing healthcare data using SQL with a star schema d
 
 ## 🛠 Tools
 - SQL Server
-- Excel (for validation)
 
 ## 📸 Screenshots
-(حط الصور هنا)
+  
 
 ## 🚀 Author
 Ahmed Atef (Junior Data Analyst)
